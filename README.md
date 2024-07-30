@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=soft&color=050819&height=180&text=대한민국%20밤산책%20🎇&animation=&fontColor=ffffff&fontSize=50" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 프론트엔드 사전 </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 대한민국 밤산책 (팀 프로젝트) </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> https://keumju.github.io/bandifesta/#/main</li></li>
       <br/>◼ 경복궁 별빛야행 축제를 소개하고 홍보하는 사이트</li>
       <br/>◼ 게시판 작업 및 로그인 후 마이페이지의 문의 페이지 제작</li> </div> 
