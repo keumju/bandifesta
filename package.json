@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://keumju.github.io/Bandifesta",
+  "homepage": "https://keumju.github.io/Bandifesta/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
